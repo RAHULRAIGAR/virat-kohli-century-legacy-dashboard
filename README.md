@@ -87,10 +87,10 @@ Insight-driven Storytelling
 ---
 ## 🔗 Project Links
 
-- 📊 **GitHub Repository:** [Virat Kohli Century Legacy Dashboard](YOUR_GITHUB_REPO_LINK)
-- 📁 **Raw Data:** [Virat Kohli Hundreds Raw Data](sandbox:/mnt/data/Virat_Kohli_Hundreds_Raw_Data(4).xlsx)
+- 📊 **GitHub Repository:** [Virat Kohli Century Legacy Dashboard](https://github.com/RAHULRAIGAR/virat-kohli-century-legacy-dashboard)
+- 👤 **GitHub Profile:** [Rahul Raigar](https://github.com/RAHULRAIGAR)
 - 💼 **LinkedIn:** [Rahul Raigar](https://www.linkedin.com/in/rahul-raigar-data3293/)
-👤 Author
+- 📁 **Raw Data:** [Download Virat Kohli Hundreds Raw Data](https://github.com/RAHULRAIGAR/virat-kohli-century-legacy-dashboard/raw/refs/heads/main/Virat_Kohli_Hundreds_Raw_Data.xlsx)
 
 Rahul Raigar
 Data Analyst | Power BI | SQL | Excel | Python
