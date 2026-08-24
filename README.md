@@ -119,59 +119,76 @@ Virat-Kohli-Century-Legacy/
 📸 Dashboard Preview
 ![Virat Kohli Century Legacy Dashboard](Dashboard.png)
 ---
-📊 Skills Demonstrated
-Data Cleaning
-Data Transformation
-Data Analysis
-Data Modeling
-DAX Measures
-KPI Development
-Power BI Visualization
-Trend Analysis
-Comparative Analysis
-Performance Analysis
-Dashboard Design
-Data Storytelling
-Insight Generation
+## 📊 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Power BI Visualization
+- Trend Analysis
+- Comparative Analysis
+- Performance Analysis
+- Dashboard Design
+- Data Storytelling
+- Insight Generation
+
 ---
-🚀 Business-Style Analytics
+
+## 🚀 Business-Style Analytics
 
 Although this project is based on cricket data, the analytical approach is applicable to real-world business problems.
 
-The project demonstrates how raw transactional data can be converted into:
+The project demonstrates how raw data can be transformed into:
 
-KPIs → Trends → Comparisons → Patterns → Actionable Insights
+**KPIs → Trends → Comparisons → Patterns → Insights**
 
-This approach focuses on answering "What happened?", "How did it change?", and "What does the data tell us?" rather than simply displaying statistics.
+This approach focuses on answering:
+
+- **What happened?**
+- **How did performance change?**
+- **Which patterns stand out?**
+- **What insights can be derived from the data?**
+
 ---
+
 ## 🔗 Project Links
 
 - 📊 **GitHub Repository:** [Virat Kohli Century Legacy Dashboard](https://github.com/RAHULRAIGAR/virat-kohli-century-legacy-dashboard)
 - 👤 **GitHub Profile:** [Rahul Raigar](https://github.com/RAHULRAIGAR)
 - 💼 **LinkedIn:** [Rahul Raigar](https://www.linkedin.com/in/rahul-raigar-data3293/)
 - 📁 **Raw Data:** [Download Virat Kohli Hundreds Raw Data](https://github.com/RAHULRAIGAR/virat-kohli-century-legacy-dashboard/raw/refs/heads/main/Virat_Kohli_Hundreds_Raw_Data.xlsx)
+
 ---
-👨‍💻 Author
-Rahul Raigar
+
+## 👨‍💻 Author
+
+**Rahul Raigar**
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
 Passionate about transforming raw data into meaningful insights through interactive dashboards and analytical storytelling.
 
-Connect With Me
+### Connect With Me
 
-💼**LinkedIn:** [Rahul Raigar](https://www.linkedin.com/in/rahul-raigar-data3293/)
+💼 [LinkedIn](https://www.linkedin.com/in/rahul-raigar-data3293/)
 
-👤**GitHub Profile:** [Rahul Raigar](https://github.com/RAHULRAIGAR)
+🐙 [GitHub](https://github.com/RAHULRAIGAR)
+
 ---
-⭐ If You Like This Project
+
+## ⭐ Support
 
 If you found this project useful or interesting:
 
-⭐ Star this repository
+⭐ **Star this repository**
 
-🔗 Connect with me on LinkedIn
+💬 **Share your feedback or suggestions**
 
-💬 Share your feedback or suggestions
+🔗 **Connect with me on LinkedIn**
+
 ---
-Built with Power BI | Data tells the story. Visualization makes it understandable.
+
+> **Built with Power BI | Data tells the story. Visualization makes it understandable.**
